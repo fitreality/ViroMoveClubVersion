@@ -1,0 +1,8 @@
+TIME:  2019.10.03-14.07.55 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-14.16.01 Song: Final Breach Difficulty: 6 Typ: Shooting  Points: 269 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-14.25.35 Song: Final Breach Difficulty: 6 Typ: Shooting  Points: 273 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-14.34.14 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-14.41.43 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-14.54.07 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-15.20.50 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
+TIME:  2019.10.03-15.39.43 Song: Something Better Difficulty: 6 Typ: Boxing Points: 640 Badge:  --  Calorie: 0.005809
